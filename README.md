@@ -1,4 +1,4 @@
-# JOKR Sales Exploration in Ecuador
+# Ecuador JOKR Sales Exploration
 
 ## Overview
 
