@@ -1,4 +1,4 @@
-# JOKR Sales Analysis in Ecuador
+# JOKR Sales Exploration in Ecuador
 
 ## Overview
 
@@ -42,7 +42,3 @@ To answer the business questions, exploratory data analysis (EDA) and data model
 1. **Promotion Strategy Effectiveness**: Linear regression analysis revealed that promotion significantly improves sales, with a log transformation of the promotion variable yielding better model performance.
 2. **Sales Seasonal Patterns**: Seasonal patterns were identified through STL decomposition and statistical tests, revealing significant variations in sales based on month, month day, and weekday. December and payday periods emerged as particularly important factors influencing sales.
 3. **Key Factors Influencing Sales**: Linear regression analysis identified days of the week, December, payday periods, and supply issues as the most important factors influencing JOKR's total sales in Ecuador. Promotion and oil price also showed significant but less pronounced effects.
-
-## Acknowledgements
-
-I would like to acknowledge the JOKR team for providing access to the dataset used in this analysis.
