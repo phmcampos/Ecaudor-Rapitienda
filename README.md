@@ -1,6 +1,6 @@
 # Ecuador JOKR Sales Exploration
 
-1. Overview
+## 1. Overview
 
 This repository contains an analysis of the JOKR sales dataset in Ecuador. The analysis aims to understand sales patterns and factors influencing sales for the grocery and delivery platform. 
 
