@@ -37,7 +37,7 @@ JOKR is a grocery and delivery platform operating in the USA and Latin America, 
 
 ### Exploratory Data Analysis and Data Modeling
 
-To answer the business questions, exploratory data analysis (EDA) and data modeling techniques were employed.
+To address the business questions, the analysis followed the Cross Industry Standard Process for Data Mining (CRISP-DM) methodology, encompassing exploratory data analysis (EDA) and data modeling techniques.
 
 1. **Promotion Strategy Effectiveness**: Linear regression analysis revealed that promotion significantly improves sales, with a log transformation of the promotion variable yielding better model performance.
 2. **Sales Seasonal Patterns**: Seasonal patterns were identified through STL decomposition and statistical tests, revealing significant variations in sales based on month, month day, and weekday. December and payday periods emerged as particularly important factors influencing sales.
