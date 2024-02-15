@@ -30,7 +30,7 @@ The analysis is driven by the need to optimize sales strategies and enhance the 
 
 ### Business Understanding
 
-Rapitienda is a grocery and delivery platform operating in the USA and Latin America, with a focus on hyper-local product delivery services. The analysis addresses three key business questions:
+Rapitienda is a imaginary grocery and delivery platform operating in Latin America, with a focus on hyper-local product delivery services. The analysis addresses three key business questions:
 1. Effectiveness of promotion strategies in maximizing sales.
 2. Sales seasonal patterns in Ecuador.
 3. Key factors influencing Rapitienda's total sales in Ecuador.
