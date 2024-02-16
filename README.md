@@ -25,7 +25,7 @@ For a detailed explanation of the analysis, please refer to the accompanying blo
 
 ## Files in the Repository
 
-- **Rapitienda-Datasets.zip**: Contains the datasets mentioned below.
+- **Rapitienda-Datasets.zip**: Contains the datasets mentioned below:
   - **sales.csv**: Sales dataset containing information about total product sales by store, product family, and date, including details on promotions.
   - **stores.csv**: Dataset providing store information, including geographic data and store categorizations.
   - **holidays_events.csv**: Dataset containing information about special dates that may influence family expenses throughout the year.
