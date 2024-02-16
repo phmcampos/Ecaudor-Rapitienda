@@ -21,10 +21,11 @@ The analysis is driven by the need to optimize sales strategies and enhance the 
 
 ## Files in the Repository
 
-- **sales.csv**: Sales dataset containing information about total product sales by store, product family, and date, including details on promotions.
-- **stores.csv**: Dataset providing store information, including geographic data and store categorizations.
-- **holidays_events.csv**: Dataset containing information about special dates that may influence family expenses throughout the year.
-- **oil.csv**: Dataset including oil price data, relevant due to Ecuador's oil-dependent economy.
+- **Rapitienda-Datasets.zip**: Contains the datasets mentioned below.
+  - **sales.csv**: Sales dataset containing information about total product sales by store, product family, and date, including details on promotions.
+  - **stores.csv**: Dataset providing store information, including geographic data and store categorizations.
+  - **holidays_events.csv**: Dataset containing information about special dates that may influence family expenses throughout the year.
+  - **oil.csv**: Dataset including oil price data, relevant due to Ecuador's oil-dependent economy.
 
 ## Analysis Summary
 
