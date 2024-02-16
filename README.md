@@ -8,7 +8,7 @@ This repository contains an analysis of the Rapitienda sales dataset in Ecuador.
 
 The analysis is driven by the need to optimize sales strategies and enhance the delivery experience for Rapitienda customers in Ecuador. By exploring the dataset and addressing specific business questions, actionable insights can be derived to maximize sales effectiveness and improve customer satisfaction.
 
-## Blog Post
+## [Blog Post](https://medium.com/@pedrohmcampos02/unveiling-consumer-behavior-a-deep-dive-into-rapitiendas-sales-patterns-in-ecuador-777c7fc4c700)
 
 For a detailed explanation of the analysis, please [click here](https://medium.com/@pedrohmcampos02/unveiling-consumer-behavior-a-deep-dive-into-rapitiendas-sales-patterns-in-ecuador-777c7fc4c700) to read the accompanying blog post on Medium.
 
