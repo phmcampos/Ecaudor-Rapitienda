@@ -48,3 +48,7 @@ To address the business questions, the analysis followed the Cross Industry Stan
 ## Blog Post
 
 For a detailed explanation of the analysis, please refer to the accompanying blog post on Medium: [Link to Blog Post](#).
+
+## Notebooks
+
+- **Rapitienda_Exploration.ipynb**: Jupyter notebook containing the code used in the analysis.
