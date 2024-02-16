@@ -10,7 +10,7 @@ The analysis is driven by the need to optimize sales strategies and enhance the 
 
 ## Blog Post
 
-For a detailed explanation of the analysis, please refer to the accompanying blog post on Medium: [Link to Blog Post](#).
+For a detailed explanation of the analysis, please refer to the accompanying blog post on Medium: [[Link to Blog Post](https://medium.com/@pedrohmcampos02/unveiling-consumer-behavior-a-deep-dive-into-rapitiendas-sales-patterns-in-ecuador-777c7fc4c700)](#).
 
 ## Libraries Used
 
