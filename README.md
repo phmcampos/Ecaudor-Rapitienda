@@ -44,3 +44,7 @@ To address the business questions, the analysis followed the Cross Industry Stan
 1. **Promotion Strategy Effectiveness**: Linear regression analysis revealed that promotion significantly improves sales, with a log transformation of the promotion variable yielding better model performance.
 2. **Sales Seasonal Patterns**: Seasonal patterns were identified through STL decomposition and statistical tests, revealing significant variations in sales based on month, month day, and weekday. December and payday periods emerged as particularly important factors influencing sales.
 3. **Key Factors Influencing Sales**: Linear regression analysis identified days of the week, December, payday periods, and supply issues as the most important factors influencing Rapitienda's total sales in Ecuador. Promotion and oil price also showed significant but less pronounced effects.
+
+## Blog Post
+
+For a detailed explanation of the analysis, please refer to the accompanying blog post on Medium: [Link to Blog Post](#).
