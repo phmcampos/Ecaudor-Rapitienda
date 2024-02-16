@@ -1,4 +1,4 @@
-# Ecuador Rapitienda Exploration
+# Ecuador Rapitienda Sales Exploration
 
 ## Overview
 
